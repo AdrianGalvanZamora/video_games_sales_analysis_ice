@@ -1,3 +1,4 @@
+![banner](banner_video_games.png)
 # Análisis de Ventas de Videojuegos para Ice 🎮📈
 
 **Nota:** La versión en inglés se encuentra al final de este documento.  
