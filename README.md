@@ -45,9 +45,9 @@ The study aims to guide **marketing campaign planning for 2017**, focusing on sa
 
 To reproduce the analysis locally, run:
 
-bash
+```bash
 # Clone the repository
-git clone https://github.com/adriangalvanzamora/videojuegos-ice-analysis.git  
+git clone https://github.com/adriangalvanzamora/videojuegos-ice-analysis.git
 
 # Navigate to the directory
 cd videojuegos-ice-analysis
@@ -57,6 +57,7 @@ pip install -r requirements.txt
 
 # Open the notebook
 jupyter notebook notebooks/ice_videojuegos_analysis.ipynb
+```
 
 ---
 
@@ -81,7 +82,7 @@ jupyter notebook notebooks/ice_videojuegos_analysis.ipynb
 ## 🧑‍💻 Author
 
 **Adrián Galván Zamora**  
-📂 [GitHub Repository](https://github.com/adriangalvanzamora/videojuegos-ice-analysis.git  )
+📂 [GitHub Repository](https://github.com/adriangalvanzamora/videojuegos-ice-analysis.git)
 
 ---
 
@@ -132,9 +133,9 @@ El análisis busca apoyar la planificación de campañas publicitarias para 2017
 
 Para reproducir el análisis localmente, ejecuta los siguientes comandos:
 
-bash
+```bash
 # Clonar el repositorio
-git clone https://github.com/adriangalvanzamora/videojuegos-ice-analysis.git  
+git clone https://github.com/adriangalvanzamora/videojuegos-ice-analysis.git
 
 # Acceder al directorio
 cd videojuegos-ice-analysis
@@ -144,6 +145,7 @@ pip install -r requirements.txt
 
 # Abrir el notebook
 jupyter notebook notebooks/ice_videojuegos_analysis.ipynb
+```
 
 ---
 
@@ -168,4 +170,5 @@ jupyter notebook notebooks/ice_videojuegos_analysis.ipynb
 ## 🧑‍💻 Autor
 
 **Adrián Galván Zamora**  
-📂 [Repositorio en GitHub](https://github.com/adriangalvanzamora/videojuegos-ice-analysis.git  )
+📂 [Repositorio en GitHub](https://github.com/adriangalvanzamora/videojuegos-ice-analysis.git)
+```
